@@ -1,5 +1,3 @@
-es (14 sloc)  446 Bytes
-
 #!/usr/bin/python3
 """Defines a class-checking function."""
 
