@@ -3,7 +3,3 @@
 const cString = 'C is fun';
 const pyString = 'Python is cool';
 const jsString = 'JavaScript is amazing';
-
-console.log(cString);
-console.log(jsString);
-console.log(pyString);
